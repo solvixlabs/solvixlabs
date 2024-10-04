@@ -3,6 +3,9 @@
 - 👩‍💻 Solvix was founded to lead Ethiopia's digital transformation, uniting local talent and tech experts to deliver innovative solutions.
 
  ## 🌍 <em><b>Our Mission</b></em>
+ <video width="320" height="240">
+     <source src=https://cdnl.iconscout.com/lottie/premium/preview-watermark/mission-complete-animation-download-in-lottie-json-gif-static-svg-file-formats--achieving-business-vision-success-achiever-successful-victory-super-employee-pack-animations-6806349.mp4" type="video/mp4">
+ </video>
 
 - At Solvix, we aim to revolutionize Ethiopia’s technological landscape by providing cutting-edge software solutions tailored to the needs of businesses and communities alike.
   
@@ -14,3 +17,4 @@
   
 ## 🚀 <em><b>Vision for the Future</b></em>
 - Solvix is committed to empowering businesses and individuals with the tools they need to thrive in the digital age, leading the charge in Ethiopia’s digital transformation journey.
+
