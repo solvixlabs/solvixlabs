@@ -183,7 +183,7 @@
 
 <p align="center">
     <a href="https://github.com/jrohitofficial/jrohitofficial">
-        <img src="https://github-profile-trophy.vercel.app/?username=byteninja9&column=-1&theme=gotham&layout=compact"width="95%"/> 
+        <img src="https://github-profile-trophy.vercel.app/?username=solvixlabs&column=-1&theme=gotham&layout=compact"width="95%"/> 
 </p>
 
 
