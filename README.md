@@ -220,3 +220,38 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 </div>
 
+</div>
+
+---
+<p align="center">
+    <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=solvixlabs&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=solvixlabs&theme=gotham&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=solvixlabs&show_icons=true&theme=gotham">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvixlabs&size_weight=0.15&count_weight=0.5&layout=compact&theme=gotham">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=solvixlabs&style=for-the-badge&color=brightgreen" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
