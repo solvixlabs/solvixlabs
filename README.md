@@ -15,7 +15,7 @@
 ## 🚀 <em><b>Vision for the Future</b></em>
 - Solvix is committed to empowering businesses and individuals with the tools they need to thrive in the digital age, leading the charge in Ethiopia’s digital transformation journey.
 
-## <em><b>Languages And Tools</em></b>
+## 🧰 <em><b>Languages And Tools</em></b>
 <div>
 
 <p align="center">
