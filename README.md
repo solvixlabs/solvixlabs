@@ -4,4 +4,5 @@
 
 - ## 🌍 <em><b>Our Mission</b></em>
 
-- Our team specializes in web development, mobile apps, cloud services, cybersecurity, and AI-powered innovations, working to bring ideas to life through modern technology.
+- 🤼 Our team specializes in web development, mobile apps, cloud services, cybersecurity, and AI-powered innovations, working to bring ideas to life through modern technology.
+  
