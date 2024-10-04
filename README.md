@@ -4,5 +4,7 @@
 
  ## 🌍 <em><b>Our Mission</b></em>
 
-- 🤼 Our team specializes in web development, mobile apps, cloud services, cybersecurity, and AI-powered innovations, working to bring ideas to life through modern technology.
+- At Solvix, we aim to revolutionize Ethiopia’s technological landscape by providing cutting-edge software solutions tailored to the needs of businesses and communities alike.
   
+## 💡<em><b>What We Do</b></em>
+- Our team specializes in web development, mobile apps, cloud services, cybersecurity, and AI-powered innovations, working to bring ideas to life through modern technology.
