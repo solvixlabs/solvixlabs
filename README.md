@@ -251,7 +251,3 @@
   <img src="https://komarev.com/ghpvc/?username=solvixlabs&style=for-the-badge&color=brightgreen" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
