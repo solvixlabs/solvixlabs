@@ -12,3 +12,5 @@
 ## 🤝 <em><b>Collaborative Approach</b></em>
 - We believe in the power of collaboration, bringing together a diverse group of Ethiopian developers and global tech experts to create impactful digital solutions that drive progress.
   
+## 🚀 <em><b>Vision for the Future</b></em>
+- Solvix is committed to empowering businesses and individuals with the tools they need to thrive in the digital age, leading the charge in Ethiopia’s digital transformation journey.
