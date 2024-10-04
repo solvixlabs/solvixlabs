@@ -1,1 +1,3 @@
-- ## <img src="https://media.giphy.com/media/dscTJjpsiVamjIk6nk/giphy.gif" width="30"> <em><b>About us!</b></em>
+- ## <img src="https://giphy.com/embed/Jn9rgn3WIClPJeKP6I" width="30"> <em><b>About us!</b></em>
+
+
