@@ -4,7 +4,7 @@
 
  ## 🌍 <em><b>Our Mission</b></em>
 
-[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/3WyW" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 - At Solvix, we aim to revolutionize Ethiopia’s technological landscape by providing cutting-edge software solutions tailored to the needs of businesses and communities alike.
   
