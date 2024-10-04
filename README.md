@@ -4,7 +4,7 @@
 
  ## 🌍 <em><b>Our Mission</b></em>
 
-![Wa]("https://cdnl.iconscout.com/lottie/premium/preview-watermark/mission-complete-animation-download-in-lottie-json-gif-static-svg-file-formats--achieving-business-vision-success-achiever-successful-victory-super-employee-pack-animations-6806349.mp4")
+[![Watch the video]()]("https://cdnl.iconscout.com/lottie/premium/preview-watermark/mission-complete-animation-download-in-lottie-json-gif-static-svg-file-formats--achieving-business-vision-success-achiever-successful-victory-super-employee-pack-animations-6806349.mp4")
 
 - At Solvix, we aim to revolutionize Ethiopia’s technological landscape by providing cutting-edge software solutions tailored to the needs of businesses and communities alike.
   
